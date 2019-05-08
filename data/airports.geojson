@@ -1,0 +1,25 @@
+{
+"type": "FeatureCollection",
+"name": "airports",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Birmingham Airport", "description": "Birmingham Airport   IATA:BHX, ICAO:EGBB." }, "geometry": { "type": "Point", "coordinates": [ -194493.963409792399034, 6882466.400762346573174, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Bristol Airport", "description": "Bristol Airport   IATA:BRS, ICAO:EGGD." }, "geometry": { "type": "Point", "coordinates": [ -301821.203304748283699, 6689825.961582122370601, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Cardiff Airport", "description": "Cardiff Airport   IATA:CWL, ICAO:EGFF." }, "geometry": { "type": "Point", "coordinates": [ -372171.893220863479655, 6691650.949388240464032, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Durham Tees Valley Airport ", "description": "Durham Tees Valley Airport  IATA:MME, ICAO:EGNV." }, "geometry": { "type": "Point", "coordinates": [ -158683.262458033801522, 7267250.377873831428587, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "East Midlands Airport ", "description": "East Midlands Airport   IATA:EMA, ICAO:EGNX." }, "geometry": { "type": "Point", "coordinates": [ -148278.229653586487984, 6951431.816775912418962, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Edinburgh Airport ", "description": "Edinburgh Airport  IATA:EDI,  ICAO:EGPH." }, "geometry": { "type": "Point", "coordinates": [ -374226.183103961695451, 7548443.25293776486069, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Glasgow International Airport ", "description": "Glasgow International Airport  IATA:GLA, ICAO:EGPF." }, "geometry": { "type": "Point", "coordinates": [ -493381.898132138710935, 7531416.778951429761946, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Humberside Airport ", "description": "Humberside Airport  IATA:HUY, ICAO:EGNJ." }, "geometry": { "type": "Point", "coordinates": [ -39049.764175372176396, 7089897.530420486815274, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Leeds Bradford International Airport ", "description": "Leeds Bradford International Airport  IATA:LBA, ICAO:EGNM." }, "geometry": { "type": "Point", "coordinates": [ -184776.996377939765807, 7144884.351885723881423, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Liverpool John Lennon Airport ", "description": "Liverpool John Lennon Airport   IATA:LPL, ICAO:EGGP." }, "geometry": { "type": "Point", "coordinates": [ -318064.052845374622848, 7045057.654100568965077, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "London City Airport", "description": "London City Airport   IATA:LCY, ICAO:EGLC." }, "geometry": { "type": "Point", "coordinates": [ 5350.571324979213387, 6710922.600460852496326, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "London Heathrow Airport ", "description": "London Heathrow Airport  IATA:LHR, ICAO:EGLL." }, "geometry": { "type": "Point", "coordinates": [ -50486.61733998341515, 6704826.871744446456432, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "London Luton Airport ", "description": "London Luton Airport   IATA:LTN, ICAO:EGGW." }, "geometry": { "type": "Point", "coordinates": [ -41237.748766914926819, 6778158.669993835501373, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "London Stansted Airport ", "description": "London Stansted Airport  IATA:STN, ICAO:EGSS." }, "geometry": { "type": "Point", "coordinates": [ 26447.173303175695764, 6779161.869890358299017, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Manchester Airport ", "description": "Manchester Airport  IATA:MAN, ICAO:EGCC." }, "geometry": { "type": "Point", "coordinates": [ -253082.969887163111707, 7049443.067660506814718, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Newcastle Airport ", "description": "Newcastle Airport   IATA:NCL, ICAO:EGNT." }, "geometry": { "type": "Point", "coordinates": [ -188617.964088270411594, 7369121.860050722956657, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Glasgow Prestwick Airport ", "description": "Glasgow Prestwick Airport  IATA:PIK, ICAO:EGPK." }, "geometry": { "type": "Point", "coordinates": [ -510637.53240000171354, 7461400.579730569384992, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Robin Hood Airport Doncaster Sheffield ", "description": "Robin Hood Airport Doncaster Sheffield  IATA:DSA, ICAO:EGCN." }, "geometry": { "type": "Point", "coordinates": [ -113012.103650786360959, 7072479.439665425568819, 0.0 ] } }
+]
+}
